@@ -1,0 +1,22 @@
+{
+  "name": "phishsentinel-frontend",
+  "version": "1.0.0",
+  "description": "Professional landing page for PhishSentinel - AI phishing detection tool",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p 8000",
+    "dev": "npx http-server -p 8000 -c-1"
+  },
+  "keywords": [
+    "phishing",
+    "security",
+    "detection",
+    "website",
+    "landing-page"
+  ],
+  "author": "PhishSentinel Team",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
